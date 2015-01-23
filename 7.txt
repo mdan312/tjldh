@@ -1,7 +1,5 @@
 #7. Le bouquet final
 
-
-
 > _**Une religion est fausse si elle n’enseigne pas la vérité qui vient de la Bible. La fausse religion, c’est comme de la fausse monnaie : ça ressemble peut-être à de la vraie, mais ça n’a aucune valeur. Et elle peut vous causer de graves ennuis[^1].**_ 
 
 ###Les Témoins de Jéhovah sont-ils chrétiens ? {#7_1}
@@ -73,9 +71,10 @@ En lisant une telle citation, dois-je, encore une fois, vous montrer comment les
 Ils renvoient à une référence biblique pour montrer qu’au ciel Jésus s’appelle Michel … 
 Permettez-moi de citer le verset en entier car il établit clairement qu’il ne s’agit pas du nom de « Michel » mais du nom de « Jésus » :
 
->« C’est pourquoi aussi Dieu l’a élevé [Jésus]  à une position supérieure et lui a donné volontiers le nom qui est au dessus de tout [autre] nom, afin qu’au nom de Jésus plie tout genou de ceux qui sont dans le ciel et de ceux qui sont sur la terre et de ceux qui sont sous le sol, et que toute langue confesse ouvertement que Jésus Christ est Seigneur à la gloire de Dieu le Père. »  
->(Philippiens 2.9-11)
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+« C’est pourquoi aussi Dieu l’a élevé [Jésus] à une position supérieure et lui a donné volontiers le nom qui est au dessus de tout [autre] nom, afin qu’au nom de Jésus plie tout genou de ceux qui sont dans le ciel et de ceux qui sont sur la terre et de ceux qui sont sous le sol, et que toute langue confesse ouvertement que Jésus Christ est Seigneur à la gloire de Dieu le Père. »  
+(Philippiens 2.9-11)
+~~~~~~~~~~~~~~~
 
 
 Le Roi des Témoins de Jéhovah s’appelle Michel  
@@ -98,13 +97,15 @@ Des déclarations, comme celle-ci-après « ne sonnent pas bien » pour des or
 
 Même la Bible des Témoins de Jéhovah affirme ailleurs:
 
->«  Il est le reflet de la gloire [de Dieu] et la représentation exacte de son être même » (Hébreux 1.3 TMN95).
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+«  Il est le reflet de la gloire [de Dieu] et la représentation exacte de son être même » (Hébreux 1.3 TMN95).
+~~~~~~~~~~~~~~~
 
 ou encore
 
->« Je suis depuis si longtemps avec vous et pourtant, Philippe, tu n’es pas parvenu à me connaître ? Qui m’a vu a vu le Père [aussi]. Comment se fait-il que tu dises :’montre-nous le Père ‘ ? »  (Jean 14.9 TMN95)
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+« Je suis depuis si longtemps avec vous et pourtant, Philippe, tu n’es pas parvenu à me connaître ? Qui m’a vu a vu le Père [aussi]. Comment se fait-il que tu dises :’montre-nous le Père ‘ ? »  (Jean 14.9 TMN95)
+~~~~~~~~~~~~~~~
 
 ####Jésus, sa mort {#7_2_4}
 

@@ -1,5 +1,7 @@
 #5. Les vrais dessous de l’Histoire
 
+>**_Dire et démontrer qu’une religion est fausse, ce n’est pas là une forme de persécution religieuse. L’homme éclairé qui démasque publiquement une certaine religion pour permettre à ses semblables de distinguer la vraie religion d’avec la fausse, cet homme-là ne pratique pas la persécution religieuse. La Tour de Garde 1964[^1]._**
+
 
 [5.1 Quelques déclarations insolites](5.htm#5-1) {.niv1bis}
 
@@ -154,8 +156,6 @@
 	- [Christ est le premier être créé ?](5.htm#5_28_3) {.niv3}
 	- [Jésus n’a pas été ressuscité corporellement](5.htm#5_28_4) {.niv3}
 
->**_Dire et démontrer qu’une religion est fausse, ce n’est pas là une forme de persécution religieuse. L’homme éclairé qui démasque publiquement une certaine religion pour permettre à ses semblables de distinguer la vraie religion d’avec la fausse, cet homme-là ne pratique pas la persécution religieuse. La Tour de Garde 1964[^1]._**
-<!-- CETTE CITATION DES TJ NE DOIT PAS ETRE MISE DANS UN CADRE COMME LES AUTRES, ELLE DOIT ETRE MISE EN EXERGUE, SUR LA PAGE DE TITRE DU CHAPITRE EN ITALIQUE ET EN GRAS PAR EXEMPLE, MAIS C4EST A PEAUFINER; IL EN EST DE MËME POUR CHAQUE CHAPITRE . LA TABLE DES MATIERES SUIT SUR UNE NOUVELLE PAGE -->
 
 
 
@@ -880,8 +880,10 @@ Pour un Témoin de Jéhovah l’expression « la fin du monde » ne signifie p
 
 Ils citent volontiers le verset biblique : 
 
->« Les justes posséderont la terre, et sur elle ils résideront pour toujours. » (Psaume 37.29) 
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+« Les justes posséderont la terre, et sur elle ils résideront pour toujours. » (Psaume 37.29) 
+~~~~~~~~~~~~~~~
+
 
 
 
@@ -1158,8 +1160,10 @@ Vous avez dans cette dernière déclaration une clé importante de compréhensio
 
 La Bible les identifie clairement:
 
-<!-- ON POURRAIT METTRE LE TEXTE QUI SUIT DANS UN CADRE COMME LES AUTRES CITATIONS BILB IQUES  -->
+~~~~~~~~~~~~~~~ {.citation}
 Or sache ceci, que dans les derniers jours il surviendra des temps fâcheux car les hommes seront … enflés d’orgueil, … ayant la forme de la piété, mais en ayant renié la puissance. Or détourne-toi de telles gens. Car d’entre eux sont ceux qui … apprennent toujours et qui ne peuvent jamais parvenir à la connaissance de la vérité. (2 Timothée 3.1-7)
+~~~~~~~~~~~~~~~
+
 
 ####Et les successeurs ? {#5_16_6}
 
@@ -1179,15 +1183,13 @@ A vous d’en juger !
 
 ###Matthieu 24 et l’oubli significatif des Témoins de Jéhovah {#5_17}
 
->Evangile de Matthieu chapitre 24 versets 1 à 14 :  
->1 Et Jésus sortit et s’en alla du temple; et ses disciples s’approchèrent pour lui montrer les bâtiments du temple. 2 Et lui, répondant, leur dit: Ne voyez-vous pas toutes ces choses? En vérité, je vous dis: Il ne sera point laissé ici pierre sur pierre qui ne soit jetée à bas. 3 Et comme il était assis sur la montagne des Oliviers, les disciples vinrent à lui en particulier, disant: Dis-nous quand ces choses auront lieu, et quel sera le signe de ta venue et de la consommation du siècle.
-  
->4 Et Jésus, répondant, leur dit: Prenez garde que personne ne vous séduise; 5 plusieurs viendront en mon nom, disant: Moi, je suis le Christ; et ils en séduiront plusieurs. 6 Et vous entendrez parler de guerres et de bruits de guerres; prenez garde que vous ne soyez troublés, car il faut que tout arrive; mais la fin n’est pas encore. 7 Car nation s’élèvera contre nation, et royaume contre royaume; et il y aura des famines, et des pestes, et des tremblements de terre en divers lieux.
-  
->8 Mais toutes ces choses sont un commencement de douleurs. 9 Alors ils vous livreront pour être affligés, et ils vous feront mourir; et vous serez haïs de toutes les nations à cause de mon nom. Et alors plusieurs seront scandalisés, et se livreront l’un l’autre; et se haïront l’un l’autre; 11 et plusieurs faux prophètes s’élèveront et en séduiront plusieurs: 12 et parce que l’iniquité prévaudra, l’amour de plusieurs sera refroidi; 13 mais celui qui persévérera jusqu’à la fin, celui-là sera sauvé. 14 Et cet évangile du royaume sera prêché dans la terre habitée tout entière, en témoignage à toutes les nations; et alors viendra la fin.
-  
+~~~~~~~~~~~~~~~ {.citation}
+Evangile de Matthieu chapitre 24 versets 1 à 14 :  
+1 Et Jésus sortit et s’en alla du temple; et ses disciples s’approchèrent pour lui montrer les bâtiments du temple. 2 Et lui, répondant, leur dit: Ne voyez-vous pas toutes ces choses? En vérité, je vous dis: Il ne sera point laissé ici pierre sur pierre qui ne soit jetée à bas. 3 Et comme il était assis sur la montagne des Oliviers, les disciples vinrent à lui en particulier, disant: Dis-nous quand ces choses auront lieu, et quel sera le signe de ta venue et de la consommation du siècle.  
+4 Et Jésus, répondant, leur dit: Prenez garde que personne ne vous séduise; 5 plusieurs viendront en mon nom, disant: Moi, je suis le Christ; et ils en séduiront plusieurs. 6 Et vous entendrez parler de guerres et de bruits de guerres; prenez garde que vous ne soyez troublés, car il faut que tout arrive; mais la fin n’est pas encore. 7 Car nation s’élèvera contre nation, et royaume contre royaume; et il y aura des famines, et des pestes, et des tremblements de terre en divers lieux.  
+8 Mais toutes ces choses sont un commencement de douleurs. 9 Alors ils vous livreront pour être affligés, et ils vous feront mourir; et vous serez haïs de toutes les nations à cause de mon nom. Et alors plusieurs seront scandalisés, et se livreront l’un l’autre; et se haïront l’un l’autre; 11 et plusieurs faux prophètes s’élèveront et en séduiront plusieurs: 12 et parce que l’iniquité prévaudra, l’amour de plusieurs sera refroidi; 13 mais celui qui persévérera jusqu’à la fin, celui-là sera sauvé. 14 Et cet évangile du royaume sera prêché dans la terre habitée tout entière, en témoignage à toutes les nations; et alors viendra la fin.
+~~~~~~~~~~~~~~~
 
-<!-- CITATION BIBLIQUE -->
 
 **Les Témoins de Jéhovah ont une affection particulière pour le verset 14, au point que l’expression « Matthieu 24.14 » identifie une des boites à offrandes dans les congrégations !**
 
@@ -1214,8 +1216,10 @@ Quelqu'un dira « c'est la même chose ! ». Si Jésus est l'incarnation du Die
 
 Le signe du verset 11 est le plus important car c'est un élément facilement vérifiable :
 
->« Beaucoup de faux prophètes se lèveront et séduiront beaucoup de gens ». 
-<!--CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+« Beaucoup de faux prophètes se lèveront et séduiront beaucoup de gens ». 
+~~~~~~~~~~~~~~~
+
 
 Pourrait-il y avoir meilleure description des Témoins de Jéhovah ?[^113]
 Seuls « les Témoins de Jéhovah » parmi tous les groupes qui ont annoncé « la fin du monde [^114]» répondent parfaitement à cette description : 
@@ -1795,9 +1799,8 @@ Voici la doctrine officielle concernant les 144 000:
 >« J’ai vu, et voici l’Agneau [Jésus Christ] se tenant debout sur le mon Sion [céleste], et avec lui cent-quarante-quatre mille qui ont son nom et le nom de son Père écrits sur leurs fronts. Et il chantent comme un chant nouveau devant le trône et devant les quatre créatures vivantes et les anciens ; et personne ne pouvait apprendre ce chant à fond, sinon les cent quarante-quatre mille qui ont été acheté de la terre » - Rév.14:1,3[^194] »
 
 
-
 ![illustration64][] 
-<!-- IL N EST PAS INDISPENSABLE QUE L IMAGE SOIT AUSSI GROSSE TOUT DEPENDRA DE LA MISE EN PAGE -->
+<!-- IL N EST PAS INDISPENSABLE QUE L'IMAGE SOIT AUSSI GROSSE TOUT DEPENDRA DE LA MISE EN PAGE -->
 
 Nous avons ici une preuve supplémentaire que les Témoins de Jéhovah ne tiennent pas compte des versets qui infirment leurs théories. 
 Dans l’histoire officielle ils cachent soigneusement la suite de la citation qui donne pourtant L’IDENTITE de ces 144 000 ! 
@@ -1805,7 +1808,9 @@ La raison ? L’unique raison ? Cela ne correspond pas à la définition de la
 
 Prenons donc connaissance avec la suite de cette citation tronquée:
 
-**« Ce sont ceux qui ne se sont pas souillés avec des femmes ; en fait, ils sont vierges**. Ce sont ceux qui continuent à suivre l’Agneau où qu’il aille. Ceux-ci ont été achetés d’entre les humains comme prémices pour Dieu et pour l’Agneau, et on n’a pas trouvé de mensonge dans leur bouche : ils sont sans tache. » (Rév. 14.4-5 TMN95)
+~~~~~~~~~~~~~~~ {.citation}
+« Ce sont ceux qui ne se sont pas souillés avec des femmes ; en fait, ils sont vierges. Ce sont ceux qui continuent à suivre l’Agneau où qu’il aille. Ceux-ci ont été achetés d’entre les humains comme prémices pour Dieu et pour l’Agneau, et on n’a pas trouvé de mensonge dans leur bouche : ils sont sans tache. » (Rév. 14.4-5 TMN95)
+~~~~~~~~~~~~~~~
 
 
 Nous avons déjà vu que, pour garder le chiffre contraignant des 144 000 qu’ils se sont imposé, les Témoins de Jéhovah n’ont pas reculé devant des « coupes sombres » :
@@ -1823,7 +1828,10 @@ et, sur la base de ces versets[^196], ils continuent, sans compassion, leurs «�
 
 Le Seigneur a, par avance, parlé de ce type de chefs religieux :
 
-**« Malheur à vous … hypocrites ! Car vous fermez le royaume des cieux devant les hommes ; car vous n’entrez pas vous-mêmes, ni ne permettez à ceux qui entrent d’entrer ! » (Matthieu chapitre 23 verset 13)**
+~~~~~~~~~~~~~~~ {.citation}
+« Malheur à vous … hypocrites ! Car vous fermez le royaume des cieux devant les hommes ; car vous n’entrez pas vous-mêmes, ni ne permettez à ceux qui entrent d’entrer ! »  
+(Matthieu chapitre 23 verset 13)
+~~~~~~~~~~~~~~~ 
 
 « Vous n’entrez pas vous-mêmes … »  Quelqu’un dira « pourquoi ? », tout simplement parce qu’ils ne peuvent pas y entrer ! Dans ces versets il y a une condition qu’ils ne peuvent pas remplir : 
 
@@ -1875,6 +1883,8 @@ C’est d’ailleurs ce que leurs écrits confirment :
 >"Vers la fin du Ier siècle, sous l'empereur Domitien, la deuxième grande persécution éclata avec violence. On rapporte qu'en l'an 95, 40000 chrétiens subirent le martyre[^205]."
 
 Donc, selon la logique et la doctrine des Témoins de Jéhovah, la porte du paradis céleste est fermée depuis 19 siècles puisque le chiffre de 144 000 a été atteint ! … Harmaguédon a déjà eu lieu et depuis ce temps Christ règne avec son Église sur une terre où « le loup habite avec l’agneau » …
+
+
 - Plus une seule place pour les « ariens[^206] », précurseurs des Témoins de Jéhovah,
 - Plus une seule place pour Russell et ses successeurs !
 

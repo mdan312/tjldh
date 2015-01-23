@@ -1,5 +1,7 @@
 #4. Mieux connaître l’Organisation des Témoins de Jéhovah
 
+>	**_« L’erreur va de pair avec l’oppression. La vérité et la liberté ne craignent pas l’investigation. Ce sont des dons divins, c’est pourquoi toute organisation hostile à la liberté agit contre Dieu. Réveillez-vous! 1961[^1] »_** 
+
 
 - [Une belle apparence](4.htm#4_1_1) {.niv3}
 - [L’exemple biblique](4.htm#4_1_2) {.niv3}
@@ -74,8 +76,6 @@
 
 
 
->	**_« L’erreur va de pair avec l’oppression. La vérité et la liberté ne craignent pas l’investigation. Ce sont des dons divins, c’est pourquoi toute organisation hostile à la liberté agit contre Dieu. Réveillez-vous! 1961[^1] »_** 
-<!-- CETTE CITATION DES TJ NE DOIT PAS ETRE MISE DANS UN CADRE COMME LES AUTRES, ELLE DOIT ETRE MISE EN EXERGUE, SUR LA PAGE DE TITRE DU CHAPITRE EN ITALIQUE ET EN GRAS PAR EXEMPLE, MAIS C4EST A PEAUFINER; IL EN EST DE MËME POUR CHAQUE CHAPITRE . LA TABLE DES MATIERES SUIT SUR UNE NOUVELLE PAGE -->
 
 ####Une belle apparence {#4_1_1}
 
@@ -868,8 +868,9 @@ Ces « dernières données » peuvent être d’ailleurs très différentes de
 La seule responsabilité du Témoin de Jéhovah est de prêcher la « vérité actuelle » ; il ne réalisera pas obligatoirement que comme des millions de ses prédécesseurs, ce qui est vérité aujourd’hui, sera une erreur demain. Peu importe ! Qu’il prêche ! 
 Pourtant même la Bible des Témoins de Jéhovah nous met en garde : 
 
->« Un aveugle ne peut pas guider un aveugle, n’est-ce pas ? Tous les deux tomberont dans une fosse, n’est-ce pas ? » (Luc 6.39 TMN95) 
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+« Un aveugle ne peut pas guider un aveugle, n’est-ce pas ? Tous les deux tomberont dans une fosse, n’est-ce pas ? » (Luc 6.39 TMN95) 
+~~~~~~~~~~~~~~~
 
 
 
@@ -921,11 +922,13 @@ Pour être objectifs nous nous devons de signaler qu’il existe – là comme a
 
 Que doit-on faire avec les « apostats » ?[^83] Il suffit de préciser maintenant quel est leur « statut biblique » : 
 
->« Cessez de fréquenter celui qui … est … un insulteur … et de ne pas même manger avec un tel homme » (Cf. 1 Corinthiens 5.11 TMN95) 
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+« Cessez de fréquenter celui qui … est … un insulteur … et de ne pas même manger avec un tel homme » (Cf. 1 Corinthiens 5.11 TMN95) 
+~~~~~~~~~~~~~~~
 
->« Si quelqu’un vient vers vous et n’apporte pas cet enseignement, ne le recevez jamais chez vous et ne lui adressez pas non plus de salutation. Car celui qui lui adresse une salutation participe à ses œuvres mauvaises. » (Cf. 2 Jean 11) 
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+« Si quelqu’un vient vers vous et n’apporte pas cet enseignement, ne le recevez jamais chez vous et ne lui adressez pas non plus de salutation. Car celui qui lui adresse une salutation participe à ses œuvres mauvaises. » (Cf. 2 Jean 11) 
+~~~~~~~~~~~~~~~
 
 Bien sûr le contexte biblique montre qu’il s’agit de tout autre chose que des doctrines erronées des Témoins de Jéhovah mais peu de personnes vérifieront.
 Néanmoins « le tour est joué » : on ne doit absolument pas lire (ou voir ou écouter) quelque chose qui « critique » l’Organisation . 

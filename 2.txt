@@ -1,5 +1,8 @@
 #2. Visite des sites internet {#2}
 
+>**_Combien les vrais chrétiens sont reconnaissants de pouvoir fréquenter la seule organisation sur la terre, capable de comprendre « les choses profondes de Dieu »_**  
+>La Tour de Garde 1973 [^1]. 
+
 - [Une Organisation disciplinée…](2.htm#2_1) {.niv2}
 - [Visite du site internet. Premier portail](2.htm#2_2) {.niv2}
 	- [Classement Wikipedia](2.htm#2_2_1) {.niv3}
@@ -11,10 +14,7 @@
 	- [Site www.jw.org/fr](2.htm#2_3_1) {.niv3}
 	- [Un plan tout préparé !](2.htm#2_3_2) {.niv3}
 
->**_Combien les vrais chrétiens sont reconnaissants de pouvoir fréquenter la seule organisation sur la terre, capable de comprendre « les choses profondes de Dieu »_**  
->La Tour de Garde 1973 [^1]. 
 
-<!-- CETTE CITATION DES TJ NE DOIT PAS ETRE MISE DANS UN CADRE COMME LES AUTRES, ELLE DOIT ETRE MISE EN EXERGUE, SUR LA PAGE DE TITRE DU CHAPITRE EN ITALIQUE ET EN GRAS PAR EXEMPLE, MAIS C'EST A PEAUFINER; IL EN EST DE MÊME POUR CHAQUE CHAPITRE -->
 
 
 ###Une organisation disciplinée … et contrôlée de près ! {#2_1}
@@ -37,8 +37,10 @@ Extraordinaire mais … extraordinairement inquiétant !
 
 La Bible rapporte les paroles de l'apôtre Paul qui disait, il y a près de deux mille ans : 
 
->«  Le souhait de mon cœur et la supplication que j'adresse à Dieu pour eux, c'est qu'ils soient sauvés : je leur rends témoignage qu'ils ont du zèle pour Dieu ; mais non pas selon la connaissance. » (Romains 10.1-2) 
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+«  Le souhait de mon cœur et la supplication que j'adresse à Dieu pour eux, c'est qu'ils soient sauvés : je leur rends témoignage qu'ils ont du zèle pour Dieu ; mais non pas selon la connaissance. » (Romains 10.1-2) 
+~~~~~~~~~~~~~~~
+
 
 Ces paroles étaient adressées aux Juifs de l'époque et elles trouvent une application étonnante pour les Témoins de Jéhovah dont la classe dirigeante prétend être des « Juifs spirituels ». 
 
@@ -118,10 +120,12 @@ Il sera toujours temps de visiter les autres sites après !
 
 Sur un bandeau bleu ciel, en exergue, se trouve une bible avec, en surimpression, le texte suivant :
 
->« Vous êtes mes témoins, dit Jéhovah »  
->	Isaïe 43.10  
->	Bible de l'Abbé Crampon  
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+« Vous êtes mes témoins, dit Jéhovah »  
+Isaïe 43.10  
+Bible de l'Abbé Crampon  
+~~~~~~~~~~~~~~~
+
 
 Ma première impression est que c'est clair, propre, bien fait.
 Il est vrai que ces quelques mots n'auraient pu être mieux choisis ! Ils nous révèlent, de façon étonnante et complète la véritable identité des Témoins de Jéhovah…
@@ -153,9 +157,9 @@ Tout cela ne met pas à l'aise…
 Voici l'ensemble du texte de présentation du site:
 
 >    « Vous êtes mes Témoins » 
->    « 'Vous êtes mes témoins', c'est là ce que déclare Jéhovah » . Cette citation biblique exprime clairement ce que sont les adorateurs du Dieu de la Bible. - Isaïe 43:10.
+>    « 'Vous êtes mes témoins', c'est là ce que déclare Jéhovah ». Cette citation biblique exprime clairement ce que sont les adorateurs du Dieu de la Bible. - Isaïe 43:10.
 >    
->    Jésus Christ lui même est appelé « le Témoin fidèle et véridique » . Il a défini sa mission en disant : « Il me faut annoncer la bonne nouvelle du royaume de Dieu, car c'est pour cela que j'ai été envoyé. » - Évangile selon Luc 4:43.
+>    Jésus Christ lui même est appelé « le Témoin fidèle et véridique ». Il a défini sa mission en disant : « Il me faut annoncer la bonne nouvelle du royaume de Dieu, car c'est pour cela que j'ai été envoyé. » - Évangile selon Luc 4:43.
 >    
 >    Jésus a également déclaré : « Cette bonne nouvelle du Royaume sera prêchée dans toute la terre habitée, en témoignage pour toutes les nations. « - Évangile selon Matthieu 24:14.
 >    
@@ -165,8 +169,10 @@ Je contrôle rapidement le contexte dans la Bible actuelle des Témoins de Jého
 
 ##### Premier verset {#2_2_2_1}
 
->« Vous êtes mes témoins » , c'est là ce que déclare Jéhovah, « oui mon serviteur que j'ai choisi, afin que vous me connaissiez et ayez foi en moi, et que vous compreniez que je suis le Même. Il n'y a pas eu de Dieu formé avant moi, et après moi il n'y en a toujours pas eu.[^24] »  
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+« Vous êtes mes témoins » , c'est là ce que déclare Jéhovah, « oui mon serviteur que j'ai choisi, afin que vous me connaissiez et ayez foi en moi, et que vous compreniez que je suis le Même. Il n'y a pas eu de Dieu formé avant moi, et après moi il n'y en a toujours pas eu.[^24] »  
+~~~~~~~~~~~~~~~
+
 
 Ce verset m'interpelle car 
 
@@ -179,15 +185,19 @@ Et maintenant voici ce qu'a dit Jéhovah, ton Créateur, ô Jacob, et Celui qui 
 - Comment les Témoins de Jéhovah peuvent-ils trouver une base fiable pour leur identité dans un verset qui ne les concerne pas ?
 Si les « Témoins de Jéhovah » du XXIème siècle veulent absolument s'approprier ce verset il faut aussi qu'ils assument la suite du chapitre et les reproches que Dieu fait dans la suite de la déclaration :
 
->« … Mais tu ne m'as pas appelé, ô Jacob, parce que tu t'es lassé de moi, ô Israël ! Tu ne m'as pas apporté les moutons de tes holocaustes, et avec tes sacrifices tu ne m'as pas glorifié… et de la graisse de tes sacrifices tu ne m'as pas saturé. En réalité, tu m'as obligé à servir à cause de tes péchés ; tu m'as lassé par tes fautes. » Ésaïe 43.22-24 TMN95 
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+« … Mais tu ne m'as pas appelé, ô Jacob, parce que tu t'es lassé de moi, ô Israël ! Tu ne m'as pas apporté les moutons de tes holocaustes, et avec tes sacrifices tu ne m'as pas glorifié… et de la graisse de tes sacrifices tu ne m'as pas saturé. En réalité, tu m'as obligé à servir à cause de tes péchés ; tu m'as lassé par tes fautes. » Ésaïe 43.22-24 TMN95 
+~~~~~~~~~~~~~~~
+
 
 Finalement le contexte nous apprend beaucoup sur les « Témoins de Jéhovah » qui « lassent Dieu par leurs fautes », leurs innombrables fautes ! Mais prennent-ils aussi le contexte pour eux ? Ce n'est pas sûr ! 
 
 Quel dommage que les Témoins de Jéhovah semblent ne pas connaître un verset clair qui concerne, cette fois, LES CHRÉTIENS : 
 
->« Mais vous recevrez de la puissance lorsque l'esprit saint surviendra sur vous, et vous serez mes témoins non seulement à Jérusalem, mais aussi dans toute la Judée et la Samarie, et jusque dans la région la plus lointaine de la terre. » (Actes 1.8 TMN95) 
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+« Mais vous recevrez de la puissance lorsque l'esprit saint surviendra sur vous, et vous serez mes témoins non seulement à Jérusalem, mais aussi dans toute la Judée et la Samarie, et jusque dans la région la plus lointaine de la terre. » (Actes 1.8 TMN95) 
+~~~~~~~~~~~~~~~
+
 
 La conclusion est claire :  
 Les chrétiens sont Témoins de qui ? De Jésus ! 
@@ -199,8 +209,10 @@ Un quelconque raisonnement ne saurait remplacer l'évidence ! Ne passons pas à
 
 #####Deuxième verset {#2_2_2_2}
 
->Mais il leur dit : « Aux autres villes aussi il me faut annoncer la bonne nouvelle du royaume de Dieu, car c'est pour cela que j'ai été envoyé. » (Luc 4.43 TMN95) 
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+Mais il leur dit : « Aux autres villes aussi il me faut annoncer la bonne nouvelle du royaume de Dieu, car c'est pour cela que j'ai été envoyé. » (Luc 4.43 TMN95) 
+~~~~~~~~~~~~~~~
+
 
 Le verset 44 qui suit cette déclaration précise : *« Il continuait donc à prêcher dans les synagogues de Judée. »* 
 
@@ -213,9 +225,11 @@ Mais faut-il en conclure obligatoirement que les « Témoins de Jéhovah » du
 
 #####Troisième verset {#2_2_2_3}
 
->« Et cette bonne nouvelle du royaume sera prêchée dans toute la terre habitée, en témoignage pour toutes les nations ; et alors viendra la fin ».  
->(Mt 24.14 TMN95)
-<!-- CITATION BIBLIQUE -->
+~~~~~~~~~~~~~~~ {.citation}
+« Et cette bonne nouvelle du royaume sera prêchée dans toute la terre habitée, en témoignage pour toutes les nations ; et alors viendra la fin ».  
+(Mt 24.14 TMN95)
+~~~~~~~~~~~~~~~
+
 
 - Il est vrai que ce verset élargit la sphère de diffusion mais je remarque que le verset est encore une fois tronqué. Bien qu'il n'y ait pas de ponctuation dans les textes originaux, il faut souligner que, sur le site, il y a un point après *« toutes les nations »*. Pourtant dans leur propre traduction de la Bible (TMN95) il y a un point-virgule suivi de *« et alors viendra la fin »*. 
 
