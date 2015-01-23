@@ -247,11 +247,11 @@ C'est ce qu'ils appellent « la vérité mise à jour », une « vérité »
 [^27]: Les Témoins de Jéhovah, Prédicateurs du Royaume de Dieu, p. 85
 
 
-[illustration3]: ../images/tjldh/3.jpg "" { #img3}
-[illustration1]: ../images/tjldh/1.jpg "Une propagande agressive" {#img1}
-[illustration151]: ../images/tjldh/151.jpg "Mépris du catholicisme" {#img151}
-[illustration4]: ../images/tjldh/4.jpg "Russell face aux théologiens" {#img4}
-[illustration138]: ../images/tjldh/138.jpg "Photo-Drame, de Russell" {.left #img138}
-[illustration2]: ../images/tjldh/2.jpg "Tous les chrétiens se disputent … dit la WT" { #img2}
-[illustration115]: ../images/tjldh/115.jpg "Toutes les églises seront détruites" { #img115}
-[illustration133]: ../images/tjldh/133.jpg "Les Témoins de Jéhovah connaissent-ils vraiment leur religion?" {#img133}
+[illustration3]: ../../images/tjldh/3.jpg "" { #img3}
+[illustration1]: ../../images/tjldh/1.jpg "Une propagande agressive" {#img1}
+[illustration151]: ../../images/tjldh/151.jpg "Mépris du catholicisme" {#img151}
+[illustration4]: ../../images/tjldh/4.jpg "Russell face aux théologiens" {#img4}
+[illustration138]: ../../images/tjldh/138.jpg "Photo-Drame, de Russell" {.left #img138}
+[illustration2]: ../../images/tjldh/2.jpg "Tous les chrétiens se disputent … dit la WT" { #img2}
+[illustration115]: ../../images/tjldh/115.jpg "Toutes les églises seront détruites" { #img115}
+[illustration133]: ../../images/tjldh/133.jpg "Les Témoins de Jéhovah connaissent-ils vraiment leur religion?" {#img133}
