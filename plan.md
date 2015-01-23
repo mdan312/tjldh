@@ -4,6 +4,7 @@
 #[1. Introduction](1.htm#1) {.niv1}
 
 - [Liberté de croyance](1.htm#1_1) {.niv2}
+	- [Déclaration des droits de l'homme et du citoyen](1.htm#1_1_0) {.niv3}
 	- [Diffamation interdite](1.htm#1_1_1) {.niv3}
 	- [Liberté d’expression](1.htm#1_1_2) {.niv3}
 	- [Non-assistance à personne en danger](1.htm#1_1_3) {.niv3}

@@ -1,7 +1,16 @@
 
 #1. Introduction {#1}
 
+
+>	**_L’erreur recherche toujours l’obscurité, tandis que la vérité cherche la lumière.
+>	L’erreur se refuse toujours à l’examen, la lumière réclame une investigation complète et profonde_**
+>	
+>	Président Rutherford [^1].
+
+
+
 - [Liberté de croyance](1.htm#1_1) {.niv2}
+	- [Déclaration des droits de l'homme et du citoyen](1.htm#1_1_0) {.niv3}
 	- [Diffamation interdite](1.htm#1_1_1) {.niv3}
 	- [Liberté d’expression](1.htm#1_1_2) {.niv3}
 	- [Non-assistance à personne en danger](1.htm#1_1_3) {.niv3}
@@ -11,11 +20,7 @@
 	- [Les faits sont sacrés](1.htm#1_2_3) {.niv3}
 	- [Souligner les erreurs](1.htm#1_2_4) {.niv3}
 
->	**_L’erreur recherche toujours l’obscurité, tandis que la vérité cherche la lumière.
->	L’erreur se refuse toujours à l’examen, la lumière réclame une investigation complète et profonde_**  
->	Président Rutherford [^1]. 
 
-<!--CETTE CITATION DES TJ NE DOIT PAS ETRE MISE DANS UN CADRE COMME LES AUTRES, ELLE DOIT ETRE MISE EN EXERGUE, SUR LA PAGE DE TITRE DU CHAPITRE EN ITALIQUE ET EN GRAS PAR EXEMPLE, MAIS C'EST A PEAUFINER; IL EN EST DE MËME POUR CHAQUE CHAPITRE -->
 
 
 *« Quand je serai grand je serai Témoin de Jéhovah !… Voilà une organisation apolitique, non violente, propre, dynamique, de bonne moralité, qui dispense un message d'espérance dans un monde déboussolé … Ne critiquez pas sans savoir, visitez leurs sites internet et soyez convaincus ! »*
@@ -43,7 +48,7 @@ Mais rappelons tout d'abord quelques droits et devoirs qui nous permettent de vi
 
 ###Liberté de croyance {#1_1}
 
-**Déclaration des droits de l'homme et du citoyen[^6]**
+####Déclaration des droits de l'homme et du citoyen[^6] {#1_1_0}
 
 Article X : Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l'ordre public établi par la loi.
 
