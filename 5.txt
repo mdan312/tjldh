@@ -1,4 +1,4 @@
-#Chapitre 5 Les vrais dessous de l’Histoire
+#5. Les vrais dessous de l’Histoire
 
 
 [5.1 Quelques déclarations insolites](5.htm#5-1) {.niv1bis}
