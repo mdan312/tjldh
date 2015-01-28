@@ -2,80 +2,107 @@
 
 - [L’auteur n’est pas un apostat](8.htm#8_1) {.niv2}
 - [Une organisation opaque:](8.htm#8_2) {.niv2}
-	- [Pas de photocopies de documents](8.htm#8_2_1) {.niv3}
-	- [Pas d’accès à leur bibliothèque](8.htm#8_2_2) {.niv3}
+	- [Pas de photocopies de documents](8.htm#8_2) {.niv3}
+	- [Pas d’accès à leur bibliothèque](8.htm#8_2) {.niv3}
 	- [Pas de réponse aux lettres](8.htm#8_2_3) {.niv3}
 	- [Pas de confrontation publique](8.htm#8_2_4) {.niv3}
 - [Quelques perles:](8.htm#8_3) {.niv2}
 	- [Les véritables prédictions de Russell](8.htm#8_3_1) {.niv3}
-	- [Les transfusions “évolutives”](8.htm#8_3_2) {.niv3}
+	- [Les transfusions “évolutives”](sang.htm) {.niv3}
 	- [Le service militaire obligatoire](8.htm#8_3_3) {.niv3}
 - [De 1914 à 2014 : La vérité mise à jour](8.htm#8_4) {.niv2}
 
-<figure><img src="../../images/tjldh/99.jpg" id="img99" /><figcaption>
-<h3>L’auteur de ce livre n’est pas un apostat.</h3>
-Il n’a jamais été Témoin de Jéhovah. C’est son amour pour la vérité qui l’a poussé à faire cette étude approfondie pour pouvoir mettre en lumière bien des choses que même les responsables des Témoins de Jéhovah ne connaissent pas.
-</figcaption></figure>
+------------------------------
 
+<figure markdown="1"><figcaption markdown="1">
+###L’auteur de ce livre n’est pas un apostat. {#8_1}
+Il n’a jamais été Témoin de Jéhovah. C’est son amour pour la vérité qui l’a poussé à faire cette étude approfondie pour pouvoir mettre en lumière bien des choses que même les responsables des Témoins de Jéhovah ne connaissent pas.
+</figcaption><img src="../../images/tjldh/99.jpg" id="img99"/></figure>
+
+------------------------------
 <figure markdown="1">
 
-<p><img src="../../images/tjldh/98.jpg" id="img98" /></p>
-<figcaption markdown="1">
-
-<h3>Pas d’accès possible à la Bibliothèque officielle </h3>
+<p><figcaption markdown="1">
+###Pas d’accès possible à la Bibliothèque officielle {#8_2}
 
 Il est facile d’écrire: “Avez-vous lu les anciennes publications de la Société? Si vous prenez le temps de les lire vous en recevrez une bénédiction”[^1] alors qu’il est impossible d’y avoir accès ou encore d’avoir une simple photocopie…[^2]
 
-</figcaption></figure>
+</figcaption><img src="../../images/tjldh/98.jpg" id="img98" /></p>
+</figure>
 
-<figure markdown="1"><img src="../../images/tjldh/96.jpg" id="img96" /><figcaption markdown="1">
-<h3>Pas de réponse aux questions gênantes</h3>
+------------------------------------
+
+<figure markdown="1"><figcaption markdown="1">
+###Pas de réponse aux questions gênantes {#8_2_3}
 
 >« Nous défions n’importe qui de poser une seule question sincère concernant les sujets bibliques … sans qu’il soit donné une réponse raisonnable, précise, conforme aux Ecritures et propre à satisfaire toute personne en quête de la vérité. » (Le Royaume p. 63)
 
 La non réponse manifeste l’embarras de la Société face à des questions précises et, indirectement, établit la véracité des faits.
-</figcaption></figure>
+</figcaption><img src="../../images/tjldh/96.jpg" id="img96" /></figure>
 
-<figure><img src="../../images/tjldh/97.jpg" id="img97" /><figcaption>
-<h3>Pas de confrontation publique (La demande)</h3>
+------------------------------------
+
+<figure markdown="1"><figcaption markdown="1">
+###Pas de confrontation publique (La demande) {#8_2_4}
 Cette invitation d’une Association est intéressante car elle propose une approche objective du sujet:
 Chacun a le droit de croire ce qu’il veut et d’en parler.
 Les auditeurs ont le droit de poser des questions avant d’adhérer - ou non - à une organisation ou à une croyance.
-</figcaption></figure>
+</figcaption><img src="../../images/tjldh/97.jpg" id="img97" /></figure>
 
-<figure><img src="../../images/tjldh/154.jpg" id="img154" /><figcaption>
+
+<figure markdown="1"><figcaption markdown="1">
 <h3>Pas de confrontation publique (La réponse)</h3>
 C’est un refus poli mais tout de même un refus. Sous entendre qu’annoncer le message individuellement est “l’unique” méthode de Jésus montre beaucoup d’ignorance car Jésus a fait beaucoup de discours publics pendant lesquels beaucoup de contradicteurs sont intervenus. Il en est de même pour l’apôtre Paul.
-</figcaption></figure>
+</figcaption><img src="../../images/tjldh/154.jpg" id="img154" /></figure>
 
-<figure markdown="1"><img src="../../images/tjldh/94.jpg" id="img94" /><figcaption markdown="1">
-<h3>Les véritables prédictions du Pasteur Russell</h3>
+------------------------------------ 
+
+
+<figure markdown="1"><figcaption markdown="1">
+###Les véritables prédictions du Pasteur Russell {#8_3_1}
 
 >« Nous pensons que ce sont les dates de Dieu et pas les nôtres mais rappelez-vous que la fin de 1914 n’est pas la date du commencement, mais de la fin de la détresse. WT 15/7/1894 p. 1677
 
-</figcaption></figure>
+</figcaption><img src="../../images/tjldh/94.jpg" id="img94" /></figure>
 
-<figure><img src="../../images/tjldh/95.jpg" id="img95" /><figcaption>
-<h3>10/10! Dix essais, dix fausses prédictions! </h3>
+
+
+<figure markdown="1"><figcaption markdown="1">
+### 10/10! Dix essais, dix fausses prédictions! ### {#8_3_2}
 Et de conclure: « Bien que ces pensées aient été émises des dizaines d’années avant la Première Guerre mondiale, il est surprenant de constater avec quelle exactitude se sont finalement produits les événements qui avaient été prévus. » <br/>Surprenant en effet !
-</figcaption></figure>
+</figcaption><img src="../../images/tjldh/95.jpg" id="img95" /></figure>
 
-<figure><img src="../../images/tjldh/143.jpg" id="img143" /></figure>
+------------------------------------
+
+##[Transfusion sanguine : Une histoire riche en revirements](sang.htm)
+<!--figure><img src="../../images/tjldh/143.jpg" id="img143" /></figure-->
+
+------------------------------------
 
 
 
-<!-- transfusions -->
-
-
-
-
-<figure markdown="1"><img src="../../images/tjldh/93.jpg" id="img93" /><figcaption markdown="1">
-<h3>Le service militaire obligatoire … une perle! </h3>
+<figure markdown="1"><figcaption markdown="1">{#8_3_3}
+### Le service militaire obligatoire … une perle! 
 Une lettre accompagnait ce document exceptionnel, recommandant de ne pas le remettre entre les mains *“d’ennemis de la vérité”*, car il ne fallait pas *“jeter ses perles devant les pourceaux”*.  
 La *“perle”* c’est cette étonnante déclaration, les *“cochons”* … c’est vous!
-</figcaption></figure>
+</figcaption><img src="../../images/tjldh/93.jpg" id="img93" /></figure>
+
+
+------------------------------------
+
+## La vérité mise à jour {#8_4}
+
+<figure markdown="1"><figcaption markdown="1">
+Ce qui aurait dû être "la vérité pour 1914"
+</figcaption><img src="../../images/tjldh/155.jpg" id="img155" /></figure>
+
+<figure markdown="1"><figcaption markdown="1">
+Ce qui est  la "vérité mise à jour pour 2014" suite au Centenaire manqué
+</figcaption><img src="../../images/tjldh/115.jpg" id="img115" /></figure>
+
+
+
 
 
 [^1]: Citation tirée du Manuel pour l’école du ministère théocratique p 21, Ed 1971.
 [^2]: Le destinataire est aujourd’hui décédé mais ses enfants possèdent l’original. 
-
