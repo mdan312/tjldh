@@ -16,7 +16,7 @@ par
 
 
 
-# Tables
+# Tables (liens et images)
 
 Récupérer le HTML généré via Chrome/inspecter
 

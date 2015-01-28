@@ -1,7 +1,8 @@
 ﻿#5. Les vrais dessous de l’Histoire
 
->**_Dire et démontrer qu’une religion est fausse, ce n’est pas là une forme de persécution religieuse. L’homme éclairé qui démasque publiquement une certaine religion pour permettre à ses semblables de distinguer la vraie religion d’avec la fausse, cet homme-là ne pratique pas la persécution religieuse. La Tour de Garde 1964[^1]._**
-
+~~~~~~~~~~~~~~ {.cadre_entete}
+**_Dire et démontrer qu’une religion est fausse, ce n’est pas là une forme de persécution religieuse. L’homme éclairé qui démasque publiquement une certaine religion pour permettre à ses semblables de distinguer la vraie religion d’avec la fausse, cet homme-là ne pratique pas la persécution religieuse. La Tour de Garde 1964[^1]._**
+~~~~~~~~~~~~~~
 
 [5.1 Quelques déclarations insolites](5.htm#5-1) {.niv1bis}
 

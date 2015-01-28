@@ -1,6 +1,8 @@
 ﻿#3. Critères de contrôle d’une bonne religion {#3}
 
->	**_Si quelqu’un connaît quelque chose de mieux, qu’il l’accepte. Si jamais quelqu’un trouvait quelque chose de mieux, nous espérons qu’il ne manquerait pas de nous le faire savoir[^1]._** 
+~~~~~~~~~~~~~~ {.cadre_entete}
+**_Si quelqu’un connaît quelque chose de mieux, qu’il l’accepte. Si jamais quelqu’un trouvait quelque chose de mieux, nous espérons qu’il ne manquerait pas de nous le faire savoir[^1]._** 
+~~~~~~~~~~~~~~
 
 - [Pourquoi s’interroger sur sa religion ?](3.htm#3_1) {.niv2}
 	- [Vérifier les affirmations](3.htm#3_1_1) {.niv3}
@@ -1065,7 +1067,7 @@ Diffusion de l’Evangile, Rue Marie Curie 07000 St Julien en St Alban. Vous tro
 
 [illustration125]: ../../images/tjldh/125.jpg "Mary Rutherfor,  la femme délaissée du 2ème Président" { #img125}
 
-[illustration144]: ../../images/tjldh/144.jpg "Rutherford a souvent croué aux fruits défendus" { #img144}
+[illustration144]: ../../images/tjldh/144.jpg "Rutherford a souvent goûté aux fruits défendus" { #img144}
 
 [illustration20]: ../../images/tjldh/20.jpg "Barbara Anderson" { #img20}
 
