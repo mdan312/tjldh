@@ -1,12 +1,12 @@
 ﻿
 #1. Introduction {#1}
 
-~~~~~~~~~~~~~~ {.cadre_entete}
-**_L’erreur recherche toujours l’obscurité, tandis que la vérité cherche la lumière.
-L’erreur se refuse toujours à l’examen, la lumière réclame une investigation complète et profonde_**
+<div class="cadre_entete" markdown="1">
+L’erreur recherche toujours l’obscurité, tandis que la vérité cherche la lumière.
+L’erreur se refuse toujours à l’examen, la lumière réclame une investigation complète et profonde
 
 Président Rutherford [^1].
-~~~~~~~~~~~~~~ 
+</div>
 
 
 - [Liberté de croyance](1.htm#1_1) {.niv2}

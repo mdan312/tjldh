@@ -1,8 +1,8 @@
 ﻿#4. Mieux connaître l’Organisation des Témoins de Jéhovah
 
-~~~~~~~~~~~~~~ {.cadre_entete}
-**_« L’erreur va de pair avec l’oppression. La vérité et la liberté ne craignent pas l’investigation. Ce sont des dons divins, c’est pourquoi toute organisation hostile à la liberté agit contre Dieu. Réveillez-vous! 1961[^1] »_** 
-~~~~~~~~~~~~~~
+<div class="cadre_entete" markdown="1">
+« L’erreur va de pair avec l’oppression. La vérité et la liberté ne craignent pas l’investigation. Ce sont des dons divins, c’est pourquoi toute organisation hostile à la liberté agit contre Dieu. Réveillez-vous! 1961[^1] »
+</div>
 
 - [Une belle apparence](4.htm#4_1_1) {.niv3}
 - [L’exemple biblique](4.htm#4_1_2) {.niv3}

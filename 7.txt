@@ -1,8 +1,8 @@
 ﻿#7. Le bouquet final
 
-~~~~~~~~~~~~~~ {.cadre_entete}
-_**Une religion est fausse si elle n’enseigne pas la vérité qui vient de la Bible. La fausse religion, c’est comme de la fausse monnaie : ça ressemble peut-être à de la vraie, mais ça n’a aucune valeur. Et elle peut vous causer de graves ennuis[^1].**_ 
-~~~~~~~~~~~~~~
+<div class="cadre_entete" markdown="1">
+Une religion est fausse si elle n’enseigne pas la vérité qui vient de la Bible. La fausse religion, c’est comme de la fausse monnaie : ça ressemble peut-être à de la vraie, mais ça n’a aucune valeur. Et elle peut vous causer de graves ennuis[^1].
+</div>
 
 ###Les Témoins de Jéhovah sont-ils chrétiens ? {#7_1}
 

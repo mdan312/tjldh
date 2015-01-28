@@ -1,8 +1,8 @@
 ﻿#3. Critères de contrôle d’une bonne religion {#3}
 
-~~~~~~~~~~~~~~ {.cadre_entete}
-**_Si quelqu’un connaît quelque chose de mieux, qu’il l’accepte. Si jamais quelqu’un trouvait quelque chose de mieux, nous espérons qu’il ne manquerait pas de nous le faire savoir[^1]._** 
-~~~~~~~~~~~~~~
+<div class="cadre_entete" markdown="1">
+Si quelqu’un connaît quelque chose de mieux, qu’il l’accepte. Si jamais quelqu’un trouvait quelque chose de mieux, nous espérons qu’il ne manquerait pas de nous le faire savoir[^1].
+</div>
 
 - [Pourquoi s’interroger sur sa religion ?](3.htm#3_1) {.niv2}
 	- [Vérifier les affirmations](3.htm#3_1_1) {.niv3}

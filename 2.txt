@@ -1,9 +1,9 @@
 ﻿#2. Visite des sites internet {#2}
 
-~~~~~~~~~~~~~~ {.cadre_entete}
-**_Combien les vrais chrétiens sont reconnaissants de pouvoir fréquenter la seule organisation sur la terre, capable de comprendre « les choses profondes de Dieu »_**  
+<div class="cadre_entete" markdown="1">
+Combien les vrais chrétiens sont reconnaissants de pouvoir fréquenter la seule organisation sur la terre, capable de comprendre « les choses profondes de Dieu »
 La Tour de Garde 1973 [^1]. 
-~~~~~~~~~~~~~~
+</div>
 
 
 - [Une Organisation disciplinée…](2.htm#2_1) {.niv2}
