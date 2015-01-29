@@ -75,6 +75,8 @@ Et de conclure: « Bien que ces pensées aient été émises des dizaines d’an
 ------------------------------------
 
 ##[Transfusion sanguine : Une histoire riche en revirements](sang.htm)
+
+
 <!--figure><img src="../../images/tjldh/143.jpg" id="img143" /></figure-->
 
 ------------------------------------
@@ -94,11 +96,11 @@ La *“perle”* c’est cette étonnante déclaration, les *“cochons”* … 
 
 <figure markdown="1"><figcaption markdown="1">
 Ce qui aurait dû être "la vérité pour 1914"
-</figcaption><img src="../../images/tjldh/155.jpg" id="img155" /></figure>
+</figcaption><img src="../../images/tjldh/155.1.jpg" id="img155.1" /></figure>
 
 <figure markdown="1"><figcaption markdown="1">
 Ce qui est  la "vérité mise à jour pour 2014" suite au Centenaire manqué
-</figcaption><img src="../../images/tjldh/115.jpg" id="img115" /></figure>
+</figcaption><img src="../../images/tjldh/155.jpg" id="img155" /></figure>
 
 
 

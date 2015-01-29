@@ -342,10 +342,6 @@ Les cinq associations constituant les instances nationales sont :
 [^32]: <http://minu.me/-ldh003> 
 
 [illustration5]: ../../images/tjldh/5.jpg "Rapport d'activité obligatoire" { #img5}
-<!--chap2-->
 [illustration6]: ../../images/tjldh/6.jpg "" {.left .reduire50 #img6}
-<!--chap2-->
 [illustration7]: ../../images/tjldh/7.jpg "" { #img7}
-<!--chap2-->
 [illustration8]: ../../images/tjldh/8.jpg "" {.reduire75 #img8}
-<!--chap2-->

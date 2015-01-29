@@ -305,8 +305,9 @@ Face à une éventuelle participation la Tour de Garde demande qu’on
 
 Comme vous pouvez le constater, leur invitation n’est qu’une tromperie.
 
-<!-- CETTE IMAGE DOIT ETRE REDUITE POUR COLLER AU TEXTE QUI PRECEDE -->
 ![illustration92][]
+
+<!-- CETTE IMAGE DOIT ETRE REDUITE POUR COLLER AU TEXTE QUI PRECEDE -->
 
 
 De plus ce « souvenir » a été établi « jusqu’à ce que le Seigneur vienne » :

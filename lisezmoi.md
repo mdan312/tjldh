@@ -6,13 +6,11 @@
 4. coller
 5 lancer remplacer partout prédéfini:
 
-	<p>(<img src="../../images/tjldh/[0-9]+.jpg" alt="[^"]*") title="([^"]*)" (id="[^"]*")( class="[^"]*")? />
+	<p>(<img src="../../images/tjldh/[0-9]+.jpg" alt="[^"]*") title="([^"]*)" (id="[^"]*")( class="[^"]*")? /></p>
 
 par
 
-	<p><figure\4>\1 title="\2" \3 />
-	<figcaption>\2</figcaption>
-	</figure>
+	<p><figure\4>\1 title="\2" \3 />\n<figcaption>\2</figcaption>\n</figure>
 
 
 

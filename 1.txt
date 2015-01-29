@@ -22,13 +22,12 @@ Président Rutherford [^1].
 
 
 
-
 *« Quand je serai grand je serai Témoin de Jéhovah !… Voilà une organisation apolitique, non violente, propre, dynamique, de bonne moralité, qui dispense un message d'espérance dans un monde déboussolé … Ne critiquez pas sans savoir, visitez leurs sites internet et soyez convaincus ! »*
 
 Telles pourraient être les déclarations d’un adolescent en recherche de vérité et d’absolu[^2]. Pourquoi donc écrire un livre qui met en garde contre cette superbe Organisation ou contre sa traduction de la bible intitulée « les Saintes Ecritures, Traduction du monde nouveau » ? 
 
-* Par amour pour la vérité,  
-* Par devoir moral,  
+* Par amour pour la vérité,
+* Par devoir moral,
 * Par amour pour ces millions de personnes qui investissent leur temps et leur argent pour remplir un puits sans fond…
 
 
@@ -103,7 +102,6 @@ Une note précise qu’il s’agit de « la grande prostituée », c’est à
 
 
 ![illustration138][] 
-<!-- CES DEUX IMAGES DOIVENT ETRE REDUITE DE MANIERE QU ELLES SE METTENT COTE A COTE OU AU MOINS DESSUS ET DESSOUS SUR LA MEME PAGE -->
 
 ![illustration4][]
 
@@ -122,10 +120,7 @@ La vignette « la fin de Babylone », encore publiée dans l’histoire offici
 
 
 ![illustration115][] 
-<!--CENTRER L IMAGE -->
-
 ![illustration2][] 
-<!-- C EST BIEN SI LES DEUX POUVAIENT SE METTRE COTE A COTE -->
 
 J'use donc de cette même liberté d'expression tout en faisant une différence très marquée entre une Organisation qui trompe manifestement les gens et les gens qui sont trompés par cette Organisation. 
 Notre compassion est autant acquise aux victimes[^17] que notre indignation demeure vis à vis d'un système très sophistiqué qui, depuis plus de 100 ans piège des gens de « bonne volonté ».
@@ -253,5 +248,5 @@ C'est ce qu'ils appellent « la vérité mise à jour », une « vérité »
 [illustration4]: ../../images/tjldh/4.jpg "Russell face aux théologiens" {#img4}
 [illustration138]: ../../images/tjldh/138.jpg "Photo-Drame, de Russell" {.left #img138}
 [illustration2]: ../../images/tjldh/2.jpg "Tous les chrétiens se disputent … dit la WT" { #img2}
-[illustration115]: ../../images/tjldh/115.jpg "Toutes les églises seront détruites" { #img115}
+[illustration115]: ../../images/tjldh/115.jpg "Toutes les églises seront détruites" {.left  #img115}
 [illustration133]: ../../images/tjldh/133.jpg "Les Témoins de Jéhovah connaissent-ils vraiment leur religion?" {#img133}

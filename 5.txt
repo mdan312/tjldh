@@ -1293,7 +1293,6 @@ Peu de personnes sont capables de vérifier les affirmations des Témoins de Jé
 
 
 ![illustration107][] 
-<!-- DIMINUER L IMAGE DE MOITIE. LA RECHARGER SUR INTERNET CAR J AI ENTOURE DE RTOUGE LA PARTIE IMPORTANTE -->
 
 
 **1. Ce n’est pas Russell qui a fixé cette date mais il la tient d’un « apostat[^123] ».**
@@ -1362,9 +1361,6 @@ La Société reconnaît que :
 
 Russell a donc repris à son compte des calculs pour le moins discutables et les a laissés, comme un « héritage empoisonné » aux Témoins de Jéhovah, jusqu’à ce jour.
 
-
-<!-- CETTE IMAGE EST A SUPPRIMER, ELLE SE TROUVE UN PEU PLUS HAUT ET IL N ESST PAS UTILE DE LA METTRE 2 FOIS . JE PENSE QUE C EST UNE ERREUR CAR ELLE N EST REPERTORIEE QU UNE FOIS -->
-![illustration107][]
 
 
 
@@ -1945,10 +1941,10 @@ La Watchtower les appelle généreusement « les domestiques[^210]», ce sont c
 
 
 
-<!-- IL FAUT QUE L IMAGE COLLE AU TITRE DE DESSUS -->
 ![illustration124][]
 
- 
+<!-- IL FAUT QUE L IMAGE COLLE AU TITRE DE DESSUS -->
+
 
 L’affaire des 144 000 étant théoriquement « ficelée » il restait à identifier le « groupe de délestage » qui ferait suite aux 144 000. 
 Le Président Rutherford, lors de l’assemblée de Washington, l’a fait d’une façon fort simple. 
@@ -2342,14 +2338,7 @@ La réponse courante est que les francs-maçons louaient facilement leurs salles
 
 
 ![illustration66][]
- 
-<!-- JE ME CONTENTERAI QUE CES 2 IMAGES SOIENT BEAUCOUP PLUS PETITES ET COTE A COTE -->
-
-
 ![illustration137][]
-
-<!-- REDUIRE AUSSI CETTE 3 EME IMAGE. LE TOP SERAIT QUE ELLE SOIT A GAUCHE ET LES 2 PRECEDENTES A DROITE, SUR LE MEME NIVEAU -->
-
 ![illustration142][]
 
 
@@ -2358,9 +2347,6 @@ Ou encore les 2 colonnes maçonniques sur le « Photo-Drame de la Création »
 
 
 ![illustration68][]
- 
-<!-- PAREIL POUR CES 2 IMAGES: PLUS PETITES ET PLACEES SUR LE MEME NIVEAU -->
-
 ![illustration67][]
 
 
@@ -3181,28 +3167,28 @@ C’est de ce livre que sont tirées les trois citations suivantes. Les originau
 [^319]: Vivre éternellement p. 32-33
 
 [illustration35]: ../../images/tjldh/35.jpg "Parfois il faut plus de 50 ans pour que …" { #img35}
-[illustration36]: ../../images/tjldh/36.jpg "… la Société confesse  ses erreurs du passé!" { #img36}
-[illustration103]: ../../images/tjldh/103.jpg "Découverte liée à la "présence du  Christ-Michel" en 1874" { #img103}
-[illustration104]: ../../images/tjldh/104.jpg "Découverte liée à la "présence du  Christ-Michel" en 1874" { #img104}
-[illustration108]: ../../images/tjldh/108.jpg "Découverte explosive liée à la "présence du  Christ-Michel" en 1874" { #img108}
+[illustration36]: ../../images/tjldh/36.jpg "… la Société confesse ses erreurs du passé!" { #img36}
+[illustration103]: ../../images/tjldh/103.jpg "Découverte liée à la 'présence du Christ-Michel' en 1874" { #img103}
+[illustration104]: ../../images/tjldh/104.jpg "Découverte liée à la 'présence du Christ-Michel' en 1874" { #img104}
+[illustration108]: ../../images/tjldh/108.jpg "Découverte explosive liée à la 'présence du Christ-Michel' en 1874" { #img108}
 [illustration58]: ../../images/tjldh/58.jpg "" { #img58}
 [illustration122]: ../../images/tjldh/122.jpg "Aux jours de Rosetta et Philae, les affirmations de Rutherford sont dépassées!" { #img122}
 [illustration37]: ../../images/tjldh/37.jpg "Une maison de prince pour les les vacnces de Rutherford …" { #img37}
 [illustration101]: ../../images/tjldh/101.jpg "Une Cadillac à New York et une autre à San Diégo …" { #img101}
-[illustration140]: ../../images/tjldh/140.jpg "L'occupant provisoire de la Maison construite pour les Princes réssuscités" { #img140}
+[illustration140]: ../../images/tjldh/140.jpg "L'occupant provisoire de la Maison construite pour les Princes ressuscités" { #img140}
 [illustration102]: ../../images/tjldh/102.jpg "La chambre destinée à Abraham ressuscité ..." { #img102}
-[illustration38]: ../../images/tjldh/38.jpg "Vue d'ensemble de la "Maison des princes"" { #img38}
+[illustration38]: ../../images/tjldh/38.jpg "Vue d'ensemble de la 'Maison des princes'" { #img38}
 [illustration40]: ../../images/tjldh/40.jpg "La caveau inachevé qui était destiné à Rutherford" { #img40}
 [illustration42]: ../../images/tjldh/42.jpg "Vue aérienne des bâtiments de Beth Shan" { #img42}
-[illustration41]: ../../images/tjldh/41.jpg "Consolation 27/5/42: La Société reconnaît l'existence  Beth Shan" { #img41}
-[illustration130]: ../../images/tjldh/130.jpg "Beth Shan … Une autre "Maison de Princes"" { #img130}
+[illustration41]: ../../images/tjldh/41.jpg "Consolation 27/5/42: La Société reconnaît l'existence de Beth Shan" { #img41}
+[illustration130]: ../../images/tjldh/130.jpg "Beth Shan … Une autre 'Maison de Princes'" { #img130}
 [illustration123]: ../../images/tjldh/123.jpg "Un plafond en béton d'un mètre d'épaisseur ... " { #img123}
 [illustration39]: ../../images/tjldh/39.jpg "La grange aux chèvres?" { #img39}
 [illustration105]: ../../images/tjldh/105.jpg "Les vaccinations sont une violation de la Loi de Dieu" { #img105}
 [illustration135]: ../../images/tjldh/135.jpg "La vaccination c'est pareil que de tuer des enfants" { #img135}
 [illustration136]: ../../images/tjldh/136.jpg "" { #img136}
-[illustration43]: ../../images/tjldh/43.jpg "Rutherford ne dédaignait pas les boissons alcoolisées " { #img43}
-[illustration49]: ../../images/tjldh/49.jpg "La Société de la Tour de Garde  face à l'avenir" { #img49}
+[illustration43]: ../../images/tjldh/43.jpg "Rutherford ne dédaignait pas les boissons alcoolisées" { #img43}
+[illustration49]: ../../images/tjldh/49.jpg "La Société de la Tour de Garde face à l'avenir" { #img49}
 [illustration44]: ../../images/tjldh/44.jpg "Un livre actuellement interdit" { #img44}
 [illustration45]: ../../images/tjldh/45.jpg "Livre de Russell avec symbole égyptien " { #img45}
 [illustration46]: ../../images/tjldh/46.jpg "Notez la référence biblique …" { #img46}
@@ -3227,30 +3213,30 @@ C’est de ce livre que sont tirées les trois citations suivantes. Les originau
 [illustration64]: ../../images/tjldh/64.jpg "Vue d'artiste des 144 000 scellés au front" { #img64}
 [illustration59]: ../../images/tjldh/59.jpg "Premiers chrétiens: fidèles jusqu'à la mort" { #img59}
 [illustration63]: ../../images/tjldh/63.jpg "Chrétiens martyrisés dans la Colisée de Rome" { #img63}
-[illustration124]: ../../images/tjldh/124.jpg "Photo d'une "grande foule"" { #img124}
-[illustration65]: ../../images/tjldh/65.jpg "La Tour de Garde de 1916 ? Le "Héraut de la présence de Christ!" { #img65}
-[illustration132]: ../../images/tjldh/132.jpg "••• A toi de voir si le GIF ne marche pas" { #img132}
-[illustration66]: ../../images/tjldh/66.jpg "Logo de la Rose Croix" { #img66}
+[illustration124]: ../../images/tjldh/124.jpg "Photo d'une 'grande foule'" { #img124}
+[illustration65]: ../../images/tjldh/65.jpg "La Tour de Garde de 1916 ? Le 'Héraut de la présence de Christ!'" { #img65}
+[illustration132]: ../../images/tjldh/132.jpg "" { #img132}
+[illustration66]: ../../images/tjldh/66.jpg "Logo de la Rose Croix" { .left #img66}
 [illustration67]: ../../images/tjldh/67.jpg "Par ce signe tu vaincras: la croix dans la couronne" { #img67}
-[illustration68]: ../../images/tjldh/68.jpg "Franc-Maçonnerie: la croix dans la couronne" { #img68}
+[illustration68]: ../../images/tjldh/68.jpg "Franc-Maçonnerie: la croix dans la couronne" {.left #img68}
 [illustration70]: ../../images/tjldh/70.jpg "Russell utilise le même symbole. Pourquoi?" { #img70}
-[illustration71]: ../../images/tjldh/71.jpg "La "Tour de Garde" n'y échappe pas" { #img71}
+[illustration71]: ../../images/tjldh/71.jpg "La 'Tour de Garde' n'y échappe pas" { #img71}
 [illustration72]: ../../images/tjldh/72.jpg "Tous les proclamateurs doivent porter ce signe occulte" { #img72}
-[illustration149]: ../../images/tjldh/149.jpg "Timbre de l'IOOF" { #img149}
+[illustration149]: ../../images/tjldh/149.jpg "Timbre de l'IOOF" {.left #img149}
 [illustration150]: ../../images/tjldh/150.jpg "Costume de l'IOOF" { #img150}
 [illustration75]: ../../images/tjldh/75.jpg "Le secret de Russell: la grande pyramide" { #img75}
 [illustration100]: ../../images/tjldh/100.jpg "Les symboles maçonniques sont présents" { #img100}
 [illustration137]: ../../images/tjldh/137.jpg "Disque ailé sur les livres de Russell" { #img137}
-[illustration142]: ../../images/tjldh/142.jpg "Les occultistes utilisent le même symbole" { #img142}
+[illustration142]: ../../images/tjldh/142.jpg "Les occultistes utilisent le même symbole" {.left #img142}
 [illustration73]: ../../images/tjldh/73.jpg "Tombe et mémorial de Russell, actuellement devant un grand centre de Francs Maçons" { #img73}
 [illustration146]: ../../images/tjldh/146.jpg "Colonne brisée: uniqument pour les maîtres maçons" { #img146}
 [illustration74]: ../../images/tjldh/74.jpg "Le symbole est gravé dans la pierre" { #img74}
-[illustration69]: ../../images/tjldh/69.jpg "La première "salle du royaume" à New York" { #img69}
+[illustration69]: ../../images/tjldh/69.jpg "La première 'salle du royaume' à New York" { #img69}
 [illustration76]: ../../images/tjldh/76.jpg "Russell:  l'Ange de l'Eglise de Laodicée !" { #img76}
 [illustration77]: ../../images/tjldh/77.jpg "Trois indicess subliminaux  sur une seule image!" { #img77}
 [illustration111]: ../../images/tjldh/111.jpg "Une précision extraordinaire" { #img111}
 [illustration78]: ../../images/tjldh/78.jpg "Une bête avec deux cornes, semblable à un agneau" { #img78}
-[illustration110]: ../../images/tjldh/110.jpg "Une tête de diable dans la main de "christ-Michel"" { #img110}
+[illustration110]: ../../images/tjldh/110.jpg "Une tête de diable dans la main de 'christ-Michel'" { #img110}
 [illustration47]: ../../images/tjldh/47.jpg "" { #img47}
 [illustration79]: ../../images/tjldh/79.jpg "Des enfants morts à cause de la doctrine jéhoviste" { #img79}
 [illustration80]: ../../images/tjldh/80.jpg "Quand les Témoins de Jéhovah font la réclame pour le sang!" { #img80}
