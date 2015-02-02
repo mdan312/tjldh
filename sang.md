@@ -1,16 +1,18 @@
-﻿#Transfusion sanguine : Une histoire riche en revirements 
+﻿#### Obsolète: a été intégré dans 8.md ####
+
+#Transfusion sanguine : Une histoire riche en revirements 
 
 Tel est le titre d’un article que vous trouverez dans le ‘Réveillez-vous!” du 8/1/00 (p 4-6) 
 
 Toutes les références des affirmations ci-dessous se trouvent sur <http://minu.me/-ldh137>
 
-###"Quand les Témoins de Jéhovah aimaient les transfusions … 
+####"Quand les Témoins de Jéhovah aimaient les transfusions … 
 
 >	Une personne qui fait fréquemment don de son sang pour une transfusion est à féliciter. L’Âge D'or, 29 juillet 1925, p. 683  
 >	
 >	"Dieu n'a jamais publié de décrets qui interdisent l'utilisation des médicaments, des injections ou des transfusions sanguines" Consolation Sept 1945 (Néerlandais)
 
-###Le sang comme nourriture
+####Le sang comme nourriture
 
 Date|Doctrine
 ----|---------
@@ -19,7 +21,7 @@ Date|Doctrine
 1930|Rutherford : "Le principe de vie est dans le sang, étant donné que la vie est un don sacré, l'homme ne doit pas manger du sang."[^3]  
 1935|"Dieu dit à Noé, que toute créature vivante pouvait lui servir de nourriture, mais il ne devait pas en manger le sang, car la vie est dans le sang."[^4]
 
-###Le sang en transfusions
+####Le sang en transfusions
 
 1936 Réclame pour le commerce du sang : « la transfusion… ne fait courir aucun risque d’infection. »[^5]  
 1944 Genèse 9:4 et Lévitique 17:10-14 interdisaient de manger ou de boire du sang dans les temps bibliques, que ce soit par transfusion ou par la bouche, et que cela s'appliquait « d'une manière spirituelle pour les personnes consacrées de bonne volonté aujourd'hui »[^6].  
@@ -31,7 +33,7 @@ Date|Doctrine
 1960 « Les assemblées n’ont jamais reçu aucune instruction relative à l’exclusion de celui qui accepterait une transfusion… » L’interdiction sous peine d’exclusion[^10].  
 1961 La transfusion sanguine est un péché passible d'exclusion et perte de la vie éternelle[^11].  
 
-###Les fractions de sang ne sont pas acceptables.
+####Les fractions de sang ne sont pas acceptables.
 
 1956 "certaines fractions de sang (...) tombent aussi sous l'interdit biblique[^12]  
 1963 Obligation de demander aux fabricants d'aliments ou de médicaments si la lécithine qu'ils utilisent est faite à partir de sang ou à partir de soja[^13].  
@@ -39,7 +41,7 @@ Date|Doctrine
 1964 (Mai) Vérifier si les cosmétiques utilisés sont fabriqués à partir de sang de vache[^15].  
 1964 (Nov) Les médecins ou les infirmières Témoins de Jéhovah ne doivent pas administrer des transfusions sanguines auprès des autres membres de l'organisation. Pour les autres : liberté de conscience[^16].  
 
-###Les fractions de sang sont désormais acceptables. 
+####Les fractions de sang sont désormais acceptables. 
 
 1974 L'acception de sérums est une question personnelle[^17].  
 1982 L'albumine est acceptable[^18].  
