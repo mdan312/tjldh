@@ -421,17 +421,20 @@ Voici différentes conclusions possibles:
 >« L’organisation visible de Jéhovah est vraiment digne de confiance. Elle ne m’a jamais induit en erreur dans quelque domaine que ce soit[^64]. »
 
 ####De l’auteur du livre {#7_3_4}
-<!-- SUR LE PDF IL N Y A PAS LES RETOURS A LA LIGNE -->
-Les Témoins de Jéhovah 
--  ne sont pas des chrétiens dignes de ce nom
--  sont une caricature du christianisme biblique, 
--  sont les faux prophètes que Jésus a clairement annoncés [^65]. 
--  sont les séducteurs de la fin des temps.
+
+Les Témoins de Jéhovah
+
+- ne sont pas des chrétiens dignes de ce nom
+- sont une caricature du christianisme biblique, 
+- sont les faux prophètes que Jésus a clairement annoncés[^65]. 
+- sont les séducteurs de la fin des temps.
 
 ###De la Bible {#7_3_5}
 
-**« Détourne-toi de telles gens … car d’entre eux sont ceux … qui apprennent TOUJOURS et qui ne peuvent JAMAIS parvenir à la connaissance de la vérité » (2 Timothée 3.5)**
-
+~~~~~~~~~~~~~~~~citation
+« Détourne-toi de telles gens … car d’entre eux sont ceux … qui apprennent TOUJOURS et qui ne peuvent JAMAIS parvenir à la connaissance de la vérité » 
+(2 Timothée 3.5)
+~~~~~~~~~~~~~~
 
 Vous avez lu ce livre ?  
 Prenez le temps de contrôler tout ce qui est dit,  
@@ -583,6 +586,6 @@ Selon leurs écrits ce n'est qu'en juillet 1931 que Dieu leur a révélé le nom
 [^66]: Tapez Sarkis Pachaian +Jéhovah, puis choisissez « vidéo »
 [^67]: Consultation en ligne sur <http://minu.me/-ldh159> 
 
-[illustration91]: ../../images/tjldh/91.jpg "L'ange Michel des Témoins de Jéhovah ne peut accueillir personne!" { #img91}
+[illustration91]: ../../images/tjldh/91.jpg "L'ange Michel des Témoins de Jéhovah n'a pas les bras ouverts: il ne peut accueillir personne!" { #img91}
 [illustration92]: ../../images/tjldh/92.jpg "Commémorez mais ne participez pas!" { #img92}
 [illustration153]: ../../images/tjldh/153.jpg "De ce coté c'est une impasse. Le mieux est de faire demi-tour!" { #img153}
